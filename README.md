@@ -4,10 +4,8 @@
 
 > 16 y.o
 
-> Learning Rust and React
+> Learning Rust <img src="https://www.rustacean.net/assets/cuddlyferris.svg" width="32"> and React
 
 > 100% Human code
 
-> Sometimes I ricing my system and create designs
-
-![alt text](https://www.rustacean.net/assets/cuddlyferris.svg)
+> Sometimes I ricing my system and create desing
