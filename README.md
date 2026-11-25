@@ -9,5 +9,3 @@
 > 100% Human code
 
 > Sometimes I ricing my system and create designs
-
-67
