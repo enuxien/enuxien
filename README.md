@@ -4,7 +4,7 @@
 
 > 16 y.o
 
-> Learning Rust <img src="https://www.rustacean.net/assets/cuddlyferris.svg" width="32"> and React
+> Learning Rust <img src="https://www.rustacean.net/assets/cuddlyferris.svg" width="16"> and React
 
 > 100% Human code
 
